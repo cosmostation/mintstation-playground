@@ -2,6 +2,9 @@
 
 Welcome to Mintstation Playground, it makes easy to connect your wallet to the Mintstation blockchain and build your projects seamlessly.
 
+![playground](https://github.com/cosmostation/mintstation-playground/assets/91711862/9ce56cbb-80e9-4608-a264-b767897122d6)
+
+
 With this project, you can easily connect your wallet in any environment, be it on a PC or mobile device. Using the [Mintscan API](https://api.mintscan.io), you can conveniently build your products with ease.
 
 - [Mintscan API](https://api.mintscan.io)
