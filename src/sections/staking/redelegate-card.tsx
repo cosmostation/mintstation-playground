@@ -109,10 +109,6 @@ export const RedelegateCard = () => {
   }, [validators, delegations]);
 
   useEffect(() => {
-    if (balances && balances.balances[0]) {
-      setAvailable(balances.balances[0].amount);
-    }
-
     if (
       validators &&
       validators.validators &&

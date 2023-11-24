@@ -72,13 +72,16 @@ export const FaucetCard = () => {
             use send function and is used as tx fee.
           </Typography>
         </Box>
-      </CardContent>
-      <Divider />
-      <CardActions>
-        <Button fullWidth variant="text" onClick={faucet}>
-          Faucet
+        <Button
+          fullWidth
+          size="large"
+          sx={{ mt: 3 }}
+          onClick={faucet}
+          variant="contained"
+        >
+          Send
         </Button>
-      </CardActions>
+      </CardContent>
     </Card>
   );
 };
